@@ -11,6 +11,25 @@
 }
 .bgcolorhoyegelo{
     background-color: rgb(247, 230, 233);
-    padding:60px;
-    
+    padding:60px;  
 }
+.bag-bgcolor{
+    background-color: salmon;
+}
+.cat1{
+    padding: 20px 30px;
+}
+.container-categories{
+margin-top:5%;
+margin-left:9.5%;
+margin-right:9.5%;
+}
+.container-halum{
+    margin-right:10px;
+}
+
+
+
+
+
+
