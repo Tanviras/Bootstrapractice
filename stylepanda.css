@@ -1,4 +1,15 @@
 .carousel-item{
     padding:5px;
-    border-radius:5px;
+    
+}
+.buy-now-button{
+    padding:10px;
+    font-size:large;
+    
+}
+.boldc{
+     font-weight:600;
+}
+.bghoyegelo{
+    background-color: pink;
 }
