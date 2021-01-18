@@ -1,6 +1,5 @@
 .carousel-item{
-    padding:5px;
-    
+               margin-top:50px;
 }
 .buy-now-button{
     padding:10px;
@@ -10,6 +9,8 @@
 .boldc{
      font-weight:600;
 }
-.bghoyegelo{
-    background-color: pink;
+.bgcolorhoyegelo{
+    background-color: rgb(247, 230, 233);
+    padding:60px;
+    
 }
