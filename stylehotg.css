@@ -1,0 +1,10 @@
+.carou-bg{
+    background-image: url("hot-gadgets/bg-1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.carou-bg2{
+    background-image: url("hot-gadgets/bg-2.png");
+    background-position: left;
+    background-repeat: no-repeat;
+}
