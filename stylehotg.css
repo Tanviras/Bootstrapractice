@@ -7,7 +7,12 @@
     padding-top:5px;
     padding-bottom:75px;
 }
-
+.carou-bg2{
+    background-image: url("hot-gadgets/bg-2.png");
+    background-position-x:left;
+    background-position-y:bottom;
+    background-repeat: no-repeat;
+}
 .carou-text{ 
     text-align:justify;
     padding-top:20px;
