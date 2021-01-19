@@ -1,23 +1,19 @@
-.carou-bg{
+.carou-bg{  
     background-image: url("hot-gadgets/bg-1.png");
     background-position: center;
     background-repeat: no-repeat;
     height:555px;
     padding-left:20px;
-    padding-top:75px;
+    padding-top:5px;
     padding-bottom:75px;
 }
-.carou-bg2{
-    background-image: url("hot-gadgets/bg-2.png");
-    background-position: left;
-    background-repeat: no-repeat;
-}
+
 .carou-text{
     text-align:justify;
     padding-top:20px;
 }
 .card-foot{
-    text-align:center;
+    text-align:center;h
 }
 .container{
     margin-bottom:55px;
@@ -29,6 +25,10 @@
 }
 .div-border{
     border:1px solid black;
+}
+.col-height{
+    height:500px;
+    border:1px solid  black;
 }
 
 
