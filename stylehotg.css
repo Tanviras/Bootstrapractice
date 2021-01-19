@@ -22,4 +22,14 @@
 .container{
     margin-bottom:55px;
 }
+.btn-height{
+    height:10px;
+    width:138px;
+    border-radius: 5px;   
+}
+.categories-image{
+    width:500px;
+    height:500px;
+    margin-right:10px;
+}
 
